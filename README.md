@@ -27,14 +27,13 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="60" height="60" />
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,linux,vscode,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,,vscode,git,postgresql&perline=7" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
