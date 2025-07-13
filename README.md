@@ -13,9 +13,9 @@
 
 ### 🚀 **Quick Intro**
 **Full Stack Developer** passionate about turning data into insights and ideas into code  
-🎓 **B.Tech @ LPU** | Full Merit Scholar  
-💡 Currently diving deep into **React, Tableau & Scikit-learn**  
-🎯 Love building **interactive dashboards** and **fun web projects**
+🎓 **B.Tech @ LPU** |  
+💡 Currently diving deep into **Django, Tableau & Scikit-learn**  
+🎯 Love building **interactive dashboards** and **fun web projects** integrating data science with web development.
 
 <br clear="both"/>
 
@@ -59,9 +59,24 @@
 ## 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://github.com/Prashant-Baral/Prashant-Baral/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
+<!-- Alternative for dark mode -->
+<!--
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+-->
+<!-- If snake still doesn't work, try the activity graph -->
+<!--
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant-Baral&theme=react-dark&bg_color=0D1117&color=F797FF&line=F797FF&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
+-->
 <!-- If snake doesn't work, try these alternatives -->
 <!--
 <div align="center">
