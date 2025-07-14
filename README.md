@@ -12,10 +12,10 @@
 <img align="right" width="300" alt="Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ### 🚀 **Quick Intro**
-**Full Stack Developer** passionate about turning data into insights and ideas into code  
+**Data Science Enthusiast & Aspiring Full Stack Developer** passionate about turning raw data into meaningful insights and building intelligent web applications  
 🎓 **B.Tech @ LPU** |  
-💡 Currently diving deep into **Django, Tableau & Scikit-learn**  
-🎯 Love building **interactive dashboards** and **fun web projects** integrating data science with web development.
+💡 Currently mastering **Django, Matplotlib & Scikit-learn** to bridge data science with web development  
+🎯 Love creating **ML-powered dashboards** and **data-driven web applications** that combine analytics with seamless user experiences.
 
 <br clear="both"/>
 
@@ -24,17 +24,19 @@
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,,vscode,git,postgresql&perline=7" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,postgresql&perline=6" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -107,7 +109,7 @@
         <img src="https://dummyimage.com/400x200/0D1117/F797FF&text=Data+Dashboard" style="border-radius: 15px;" />
         <br>
         <strong>📊 Data Dashboard</strong><br>
-        <em>Python • Pandas • Chart.js</em>
+        <em>Python • Matplotlib • Seaborn</em>
       </div>
     </td>
   </tr>
@@ -116,18 +118,11 @@
       <div align="center">
         <img src="https://dummyimage.com/400x200/1a1a2e/F797FF&text=Web+Analytics" style="border-radius: 15px;" />
         <br>
-        <strong>📈 Web Analytics</strong><br>
-        <em>React • Tailwind • APIs</em>
+        <strong>📈 Data Analytics</strong><br>
+        <em> Seaborn • Excel • Scikit-learn</em>
       </div>
     </td>
-    <td width="50%">
-      <div align="center">
-        <img src="https://dummyimage.com/400x200/16213e/F797FF&text=C%2B%2B+Engine" style="border-radius: 15px;" />
-        <br>
-        <strong>🎮 Game Engine</strong><br>
-        <em>C++ • OpenGL • GLFW</em>
-      </div>
-    </td>
+    
   </tr>
 </table>
 
@@ -148,10 +143,10 @@
 ## 🤝 **Let's Connect**
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto: baralprashant09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/prashantbaral">
+  <a href="https://www.linkedin.com/in/prashant-baral-286282278/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Prashant-Baral">
