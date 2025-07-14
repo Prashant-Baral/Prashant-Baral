@@ -1,7 +1,7 @@
 <!-- 🚀 CRAZY GITHUB README START -->
 <!-- ✨ Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F797FF&center=true&vCenter=true&multiline=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Prashant+Baral;Data+Analytics+%7C+Web+Dev+%7C+C%2B%2B+%7C+Python;Fun+Projects%2C+GIFs%2C+Django+Lover;Welcome+to+My+Nerd+Kingdom+%F0%9F%A7%A0" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=F797FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Prashant+Baral;Data+Science+Aspirant;Full+Stack+Enthusiast;Python+%7C+Django+%7C+C%2B%2B;Welcome+to+My+Nerd+Kingdom+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
