@@ -4,17 +4,33 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=600&color=F797FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Prashant+Baral;Data+Science+Aspirant+%7C+Full+Stack+Enthusiast;Python+%7C+Django+%7C+C%2B%2B;Let's+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
----
-
 <!-- 🧙 About Me -->
-<img align="right" width="300" alt="Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<div align="center">
+  <img 
+    src="https://drive.google.com/file/d/1BoJzrqkLnOGz9_7IGwws-Bk4wqac5z3A/view?usp=sharing" 
+    alt="Prashant Banner"
+    width="600"
+  />
+</div>
 
-### 🚀 **Quick Intro**
-**Data Science Enthusiast & Aspiring Full Stack Developer** passionate about turning raw data into meaningful insights and building intelligent web applications  
-🎓 **B.Tech @ LPU** |  
-💡 Currently mastering **Django, Matplotlib & Scikit-learn** to bridge data science with web development  
-🎯 Love creating **ML-powered dashboards** and **data-driven web applications** that combine analytics with seamless user experiences.
+
+
+
+
+
+## 🚀 **Backend Engineer (Python/Django) | ML Learner**
+
+Backend-focused full-stack developer building fast, reliable systems and integrating ML where it delivers real value. Currently sharpening backend architecture, performance, and deployable ML workflows.
+
+**💠Core Stack:**  Python • Django • FastAPI • PostgreSQL • NumPy • Pandas
+• Matplotlib • Scikit-learn  
+
+**💠Strengths:**  Clean backend design, efficient APIs, data pipelines,
+and production-oriented problem solving  
+
+**💠Current Work:**  Building ML-powered dashboards, automation tools, and high-performance
+web apps as part of a focused full-stack + data engineering track.
+
 
 <br clear="both"/>
 
