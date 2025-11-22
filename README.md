@@ -1,24 +1,22 @@
 <!-- 🚀 CRAZY GITHUB README START -->
 <!-- ✨ Typing Header -->
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=600&color=F797FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Prashant+Baral;Data+Science+Aspirant+%7C+Full+Stack+Enthusiast;Python+%7C+Django+%7C+C%2B%2B;Let's+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=500&color=F797FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prashant+Baral;Backend+Focused+Software+Developer;Exploring+Data+Systems+%26+Applied+ML;Building+Web+APIs+%26+Scalable+Projects;" alt="Typing SVG" />
+ <br><br>
+
+
+ 🚀 **Backend Engineer (Python/Django) | ML Learner**
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <!-- 🧙 About Me -->
-<div align="center">
+<div >
   <img 
-    src="https://drive.google.com/file/d/1BoJzrqkLnOGz9_7IGwws-Bk4wqac5z3A/view?usp=sharing" 
+    src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/489869283_1366409394467565_1190675497130234853_n-removebg-preview%20(1).png" 
     alt="Prashant Banner"
-    width="600"
+    width="330"
+    align = "right"
   />
 </div>
-
-
-
-
-
-
-## 🚀 **Backend Engineer (Python/Django) | ML Learner**
 
 Backend-focused full-stack developer building fast, reliable systems and integrating ML where it delivers real value. Currently sharpening backend architecture, performance, and deployable ML workflows.
 
@@ -39,70 +37,93 @@ web apps as part of a focused full-stack + data engineering track.
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
+
+  <!-- Core Languages -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=c" width="65" height="65" />
+
+  <!-- Backend Frameworks -->
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" />
+
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" />
+
+  <!--tool-->
+  <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" />
+
+  <!-- Data / ML -->
+  <img src="https://skillicons.dev/icons?i=python" width="0" height="0" /> <!-- hidden to load theme -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  <!-- ORM -->
+  <img src="https://img.shields.io/badge/SQLAlchemy-A51C00?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy/Alembic" />
+
+  <!-- Django REST -->
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,postgresql&perline=6" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<br>
 
 ---
 
+
 ## 📊 **GitHub Insights**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashant-Baral&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=F797FF&icon_color=F797FF&text_color=ffffff&border_radius=15" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Baral&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=F797FF&text_color=ffffff&border_radius=15" width="49%" />
-</div>
+<!-- ROW: Stats + Languages -->
+<table align="center">
+<tr>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prashant-Baral&theme=radical&hide_border=true&background=0D1117&stroke=F797FF&ring=F797FF&fire=F797FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F797FF&sideLabels=F797FF&border_radius=15" width="60%" />
-</div>
+<td align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Prashant-Baral&show_icons=true&hide_border=true&theme=nightowl&bg_color=0D1117&title_color=82aaff&icon_color=82aaff&text_color=d0d7de&border_radius=8" 
+    width="350"
+  />
+</td>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<td align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Baral&layout=compact&hide_border=true&theme=nightowl&bg_color=0D1117&title_color=82aaff&text_color=d0d7de&border_radius=8" 
+    width="300"
+  />
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- STREAK -->
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Prashant-Baral&hide_border=true&theme=nightowl&background=0D1117&stroke=82aaff&ring=82aaff&fire=82aaff&currStreakNum=d0d7de&sideNums=d0d7de&currStreakLabel=82aaff&sideLabels=82aaff&border_radius=8" 
+    width="400"
+  />
+</div>
 
 ---
 
 ## 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake.svg" alt="Snake animation" width="700" />
 </div>
-<!-- Alternative for dark mode -->
-<!--
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prashant-Baral/Prashant-Baral/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
--->
-<!-- If snake still doesn't work, try the activity graph -->
-<!--
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant-Baral&theme=react-dark&bg_color=0D1117&color=F797FF&line=F797FF&point=ffffff&area=true&hide_border=true" width="95%" />
-</div>
--->
-<!-- If snake doesn't work, try these alternatives -->
-<!--
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant-Baral&theme=react-dark&bg_color=0D1117&color=F797FF&line=F797FF&point=ffffff&area=true&hide_border=true" width="95%" />
-</div>
--->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
----
 
 ## 🎨 **Featured Projects**
 
@@ -113,28 +134,28 @@ web apps as part of a focused full-stack + data engineering track.
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prashant-Baral&repo=prashant-baral&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e,0f3460&title_color=F797FF&text_color=ffffff&icon_color=F797FF&border_radius=15" />
+       <img src="" style="border-radius: 15px;" />
         <br>
-        <strong>🚀 Main Portfolio</strong><br>
-        <em>Python • Django • JavaScript</em>
+        <strong>Grevinox - A Complaint Refinement system</strong><br>
+        <em>Python • Django </em>
       </div>
     </td>
     <td width="50%">
       <div align="center">
-        <img src="https://dummyimage.com/400x200/0D1117/F797FF&text=Data+Dashboard" style="border-radius: 15px;" />
+        <img src="" style="border-radius: 15px;" />
         <br>
-        <strong>📊 Data Dashboard</strong><br>
-        <em>Python • Matplotlib • Seaborn</em>
+        <strong>📊 Electric Vehicle Insights Dashboard</strong><br>
+        <em>Python • Excel</em>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="https://dummyimage.com/400x200/1a1a2e/F797FF&text=Web+Analytics" style="border-radius: 15px;" />
+        <img src="" style="border-radius: 15px;" />
         <br>
-        <strong>📈 Data Analytics</strong><br>
-        <em> Seaborn • Excel • Scikit-learn</em>
+        <strong>📈 WHO Air Quality Data Analysis Project</strong><br>
+        <em> Seaborn • Matplotlib • Scikit-learn</em>
       </div>
     </td>
     
@@ -143,7 +164,6 @@ web apps as part of a focused full-stack + data engineering track.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
@@ -161,7 +181,7 @@ web apps as part of a focused full-stack + data engineering track.
   <a href="mailto: baralprashant09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/prashant-baral-286282278/">
+  <a href="https://www.linkedin.com/in/prashantbaral1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Prashant-Baral">
@@ -173,7 +193,7 @@ web apps as part of a focused full-stack + data engineering track.
   <img src="https://komarev.com/ghpvc/?username=Prashant-Baral&style=flat-square&color=F797FF" />
 </div>
 
----
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120" />
