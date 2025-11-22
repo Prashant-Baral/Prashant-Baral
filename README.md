@@ -128,42 +128,56 @@ web apps as part of a focused full-stack + data engineering track.
 ## 🎨 **Featured Projects**
 
 <div align="center">
-  
-<!-- Project Cards with GitHub Insights Style -->
+
+<!-- Project Cards -->
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <div align="center">
-       <img src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/grevinox.png" style="border-radius: 12px;" />
+        <a href="https://github.com/Akshatageek/Grevonix" target="_blank">
+          <img 
+            src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/grevinox.png" 
+            style="border-radius: 12px;" 
+          />
+          <br>
+          <strong>Grevinox - Complaint Refinement System</strong>
+        </a>
         <br>
-        <strong>Grevinox - A Complaint Refinement system</strong><br>
-        <em>Python • Django </em>
+        <em>Python • Django</em>
       </div>
     </td>
-    <td width="50%">
+    <td>
       <div align="center">
-        <img src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/excel.png" style="border-radius: 12px;" />
+        <a href="https://github.com/Prashant-Baral/Electric-Vehicle-insights-Dashboard" target="_blank">
+          <img 
+            src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/excel.png" 
+            style="border-radius: 12px;" 
+          />
+          <br>
+          <strong>📊 Electric Vehicle Insights Dashboard</strong>
+        </a>
         <br>
-        <strong>📊 Electric Vehicle Insights Dashboard</strong><br>
         <em>Python • Excel</em>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td>
       <div align="center">
-        <img src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/python-data.png" style="border-radius: 12px;" />
+        <a href="https://github.com/Prashant-Baral/WHO-Air-Quality-Data-Analysis-Project" target="_blank">
+          <img 
+            src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/python-data.png" 
+            style="border-radius: 12px;" 
+          />
+          <br>
+          <strong>📈 WHO Air Quality Data Analysis</strong>
+        </a>
         <br>
-        <strong>📈 WHO Air Quality Data Analysis Project</strong><br>
-        <em> Seaborn • Matplotlib • Scikit-learn</em>
+        <em>Seaborn • Matplotlib • Scikit-learn</em>
       </div>
     </td>
-    
   </tr>
 </table>
 
 </div>
-
 
 ---
 
