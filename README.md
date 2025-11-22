@@ -134,7 +134,7 @@ web apps as part of a focused full-stack + data engineering track.
   <tr>
     <td width="50%">
       <div align="center">
-       <img src="" style="border-radius: 15px;" />
+       <img src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/grevinox.png" style="border-radius: 12px;" />
         <br>
         <strong>Grevinox - A Complaint Refinement system</strong><br>
         <em>Python • Django </em>
@@ -142,7 +142,7 @@ web apps as part of a focused full-stack + data engineering track.
     </td>
     <td width="50%">
       <div align="center">
-        <img src="" style="border-radius: 15px;" />
+        <img src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/excel.png" style="border-radius: 12px;" />
         <br>
         <strong>📊 Electric Vehicle Insights Dashboard</strong><br>
         <em>Python • Excel</em>
@@ -152,7 +152,7 @@ web apps as part of a focused full-stack + data engineering track.
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="" style="border-radius: 15px;" />
+        <img src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/python-data.png" style="border-radius: 12px;" />
         <br>
         <strong>📈 WHO Air Quality Data Analysis Project</strong><br>
         <em> Seaborn • Matplotlib • Scikit-learn</em>
