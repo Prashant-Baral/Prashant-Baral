@@ -13,7 +13,7 @@
   <img 
     src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/489869283_1366409394467565_1190675497130234853_n-removebg-preview%20(1).png" 
     alt="Prashant Banner"
-    width="330"
+    width="250"
     align = "right"
   />
 </div>
