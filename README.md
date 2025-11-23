@@ -7,7 +7,7 @@
 
  🚀 **Backend Engineer (Python/Django) | ML Learner**
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+ <img src="https://<your-app>.vercel.app/?user=Prashant-Baral…"/>
 <!-- 🧙 About Me -->
 <div >
   <img 
@@ -104,19 +104,8 @@ web apps as part of a focused full-stack + data engineering track.
 </tr>
 </table>
 
-<br>
-
-<!-- STREAK -->
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.dev/?user=Prashant-Baral&theme=nightowl&hide_border=true&background=0D1117&stroke=82aaff&ring=82aaff&fire=82aaff&currStreakNum=d0d7de&sideNums=d0d7de&currStreakLabel=82aaff&sideLabels=82aaff&border_radius=8"
-    width="400"
-    alt="GitHub Streak Stats"
-  />
-</div>
-
-
 ---
+
 
 ## 🐍 **Contribution Snake**
 
