@@ -108,11 +108,13 @@ web apps as part of a focused full-stack + data engineering track.
 
 <!-- STREAK -->
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Prashant-Baral&hide_border=true&theme=nightowl&background=0D1117&stroke=82aaff&ring=82aaff&fire=82aaff&currStreakNum=d0d7de&sideNums=d0d7de&currStreakLabel=82aaff&sideLabels=82aaff&border_radius=8" 
+  <img
+    src="https://streak-stats.demolab.dev/?user=Prashant-Baral&theme=nightowl&hide_border=true&background=0D1117&stroke=82aaff&ring=82aaff&fire=82aaff&currStreakNum=d0d7de&sideNums=d0d7de&currStreakLabel=82aaff&sideLabels=82aaff&border_radius=8"
     width="400"
+    alt="GitHub Streak Stats"
   />
 </div>
+
 
 ---
 
