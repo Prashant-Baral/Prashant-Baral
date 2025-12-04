@@ -9,14 +9,14 @@
 </div>
  <img src="https://<your-app>.vercel.app/?user=Prashant-Baral…"/>
 <!-- 🧙 About Me -->
-<div >
+<!-- <div >
   <img 
     src="https://github.com/Prashant-Baral/Prashant-Baral/blob/main/.github/489869283_1366409394467565_1190675497130234853_n-removebg-preview%20(1).png" 
     alt="Prashant Banner"
     width="300"
     align = "right"
   />
-</div>
+</div> -->
 
 Backend-focused full-stack developer building fast, reliable systems and integrating ML where it delivers real value. Currently sharpening backend architecture, performance, and deployable ML workflows.
 
