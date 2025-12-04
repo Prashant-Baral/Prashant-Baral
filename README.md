@@ -83,27 +83,26 @@ web apps as part of a focused full-stack + data engineering track.
 
 ## 📊 **GitHub Insights**
 
-<!-- ROW: Stats + Languages -->
+<!-- ROW: Profile summary + Languages -->
 <table align="center">
 <tr>
 
 <td align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Prashant-Baral&show_icons=true&hide_border=true&theme=nightowl&bg_color=0D1117&title_color=82aaff&icon_color=82aaff&text_color=d0d7de&border_radius=8" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashant-Baral" 
     width="350"
   />
 </td>
 
 <td align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Baral&layout=compact&hide_border=true&theme=nightowl&bg_color=0D1117&title_color=82aaff&text_color=d0d7de&border_radius=8" 
+    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=Prashant-Baral&layout=compact&hide_border=true&theme=nightowl" 
     width="300"
   />
 </td>
 
 </tr>
 </table>
-
 ---
 
 
