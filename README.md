@@ -27,7 +27,7 @@ Backend-focused full-stack developer building fast, reliable systems and integra
 and production-oriented problem solving  
 
 **💠Current Work:**  Building ML-powered dashboards, automation tools, and high-performance
-web apps as part of a focused full-stack + data engineering track.
+web apps as part of a focused backend + data engineering track which results in AI engineer.
 
 
 <br clear="both"/>
