@@ -20,7 +20,7 @@
 
 Backend-focused full-stack developer building fast, reliable systems and integrating ML where it delivers real value. Currently sharpening backend architecture, performance, and deployable ML workflows.
 
-**💠Core Stack:**  Python • Django • FastAPI • PostgreSQL • NumPy • Pandas
+**💠Core Stack:**  Python • Django • FastAPI • SQLAlchemy • Alembic • PostgreSQL • NumPy • Pandas
 • Matplotlib • Scikit-learn  
 
 **💠Strengths:**  Clean backend design, efficient APIs, data pipelines,
@@ -35,7 +35,6 @@ web apps as part of a focused full-stack + data engineering track.
 ---
 
 ## 🛠️ **Tech Arsenal**
-
 <div align="center">
 
   <!-- Core Languages -->
@@ -43,36 +42,39 @@ web apps as part of a focused full-stack + data engineering track.
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=c" width="65" height="65" />
 
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
+  
   <!-- Backend Frameworks -->
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" />
 
-  <!-- Web -->
-  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
-
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" />
 
-  <!--tool-->
+  <!-- Tool -->
   <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" />
+  <br>
 
+  <!-- ORM -->
+  <img src="https://img.shields.io/badge/SQLAlchemy-CA3C32?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-0A4D8C?style=for-the-badge&logo=python&logoColor=white" />
+
+
+  <!-- Django REST -->
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <br>
+  
   <!-- Data / ML -->
-  <img src="https://skillicons.dev/icons?i=python" width="0" height="0" /> <!-- hidden to load theme -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-
+  
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-  <!-- ORM -->
-  <img src="https://img.shields.io/badge/SQLAlchemy-A51C00?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy/Alembic" />
-
-  <!-- Django REST -->
-  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 </div>
 
