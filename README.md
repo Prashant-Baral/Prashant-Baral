@@ -5,7 +5,7 @@
  <br><br>
 
 
- 🚀 **Backend Engineer (Python/Django) | ML Learner**
+ 🚀 **PYTHON || DATA**
 </div>
  <img src="https://<your-app>.vercel.app/?user=Prashant-Baral…"/>
 <!-- 🧙 About Me -->
